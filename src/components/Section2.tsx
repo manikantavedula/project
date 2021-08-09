@@ -8,7 +8,7 @@ const Section2 = () => {
     "data-aos-delay": "50",
     "data-aos-duration": "500",
     "data-aos-easing": "ease-in",
-    "data-aos-once": "false",
+    "data-aos-once": "true",
     "data-aos-anchor-placement": "top-center",
     "data-aos-anchor": ".trigger-animation2",
   };

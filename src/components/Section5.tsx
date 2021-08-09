@@ -12,7 +12,7 @@ const Section5 = ({ reverse }: Reverse) => {
     "data-aos-delay": "100",
     "data-aos-duration": "1000",
     "data-aos-easing": "ease-in",
-    "data-aos-once": "false",
+    "data-aos-once": "true",
     "data-aos-anchor-placement": "top-center",
   };
 
